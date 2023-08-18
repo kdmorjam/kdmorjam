@@ -11,9 +11,7 @@
 
 🔍 Curious about the intersection of tech and data? Let's connect and explore the possibilities together!
 
-🌐 [Your Website/Portfolio Link] | [LinkedIn Profile Link]"
-
-Feel free to modify this bio according to your preferences. Make sure to rep
+🌐 [Your Website/Portfolio Link] | [https://www.linkedin.com/in/kerryannmorrisonjames]"
 
 <!--
 **kdmorjam/kdmorjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
