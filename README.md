@@ -1,7 +1,7 @@
 ### Hi there 👋
-👋 Seasoned IT Professional | Data Enthusiast | Former Analyst & Team Lead | Tax Expert 📊
+👋 Seasoned IT Professional | Data Enthusiast | Former Programmer Analyst & Team Lead | Tax Expert 📊
 
-🛠️ With a decade of hands-on experience across roles like Programmer Analyst, Systems Analyst, Business Analyst, and Team Lead, I bring a wealth of IT knowledge to the table.
+🛠️ With a decade of hands-on experience across roles like Programmer Analyst, Business Systems Analyst, and Team Lead, I bring a wealth of IT knowledge to the table.
 
 🎓 B.Sc. in Computer Science & M.Sc. in Management Information Systems, blending technical prowess with strategic insights.
 
